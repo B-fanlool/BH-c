@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377062298566",
+    "firebase_url": "https://bh-game-b0d91-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bh-game-b0d91",
+    "storage_bucket": "bh-game-b0d91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377062298566:android:5e43315a881f8ad62198c7",
+        "android_client_info": {
+          "package_name": "com.bfanlool.bh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377062298566-od7ckt10mspliq8n88j0k3jfq8n01h8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBM46e5YDKPvtVoPMhiWz-K5AolA9CBpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377062298566-od7ckt10mspliq8n88j0k3jfq8n01h8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
